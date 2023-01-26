@@ -21,7 +21,6 @@
   }
 
   function resetClicked(going: boolean){
-      //console.log(dis);
     if(going){
         hasBeenClicked = false;
     }
